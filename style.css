@@ -28,17 +28,13 @@ h2 {
   font-size: 24px;
   font-weight: bold;
 }
-/* Section1 */
-.container-img {
-  height: 250px;
-}
 
+ul {
+  font-size: 1rem;
+}
+/* Section1 */
 .sec-1 h2 {
   margin: 50px 0 25px;
-}
-
-.sec-1 p {
-  margin: 25px 0 50px;
 }
 
 .container-1,
@@ -53,6 +49,8 @@ h2 {
   background-color: #2e354f;
   color: white;
   padding: 50px 0;
+  margin: 50px 0 0 0;
+  padding-bottom: 140px;
 }
 
 .sec-2 p {
